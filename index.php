@@ -149,6 +149,9 @@
 			<h1>FlipText</h1>
 			
 			<form name="f" action="">
+			
+				<hr>
+			
 				<div class="input">
 					<div>
 						<textarea rows="3" cols="45" name="original" id="original" onkeyup="flip()"></textarea><!--<input value="Flip" onclick="flip()" type="button">-->
@@ -172,7 +175,7 @@
 				</div>
 				<div class="clear"></div>
 				<hr>
-				<br>
+				<!--<br>-->
 			</form>
 		</center>
 	</body>

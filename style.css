@@ -2,8 +2,9 @@
 
 h1
 {
-	color: darkgray;
+	color: Black;
 	font-family: Arial, sans-serif;
+	font-size: 20px;
 }
 
 form
@@ -11,4 +12,5 @@ form
 	width: 100%;
 	border: 1px solid black;
 	border-radius: 5px;
+	padding: 5px;
 }
