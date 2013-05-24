@@ -1,5 +1,11 @@
 <html>
 	<head>
+	
+		<meta name="viewport" content="user-scalable=yes, initial-scale=1.0, maximum-scale=1.0"/>
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+	
 		<link href="style.css" rel="stylesheet" type="text/css">
 		<title>FlipText</title>
 		<script language="JavaScript1.5">
